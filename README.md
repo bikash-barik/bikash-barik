@@ -1,4 +1,4 @@
-### Hi there, I'm Evan - aka [CodingWithBikash][website] 
+### Hi there, I'm Evan - aka [CodingWithEvan][website] 
 
 
 ## I'm a Student, Developer, and Programmer!
@@ -44,8 +44,11 @@
 
 <img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
 
-[website]: https://mrbikashbarik.blogspot.com/
-[twitter]: https://twitter.com/BikashB33919095
+[website]: https://www.youtube.com/channel/UCghuahHSahEqxMcvg7bzGaA
+[twitter]: https://twitter.com/evanemran
 [youtube]: https://youtube.com/codingwithevan
-[linkedin]: https://www.linkedin.com/in/bikash-barik-178a1519b/
-[facebook]: https://www.facebook.com/bikash.barik.5059601
+[instagram]: https://instagram.com/evanemran
+[linkedin]: https://linkedin.com/in/evanemran
+[facebook]: https://facebook.com/emranevan
+[pythonprojectplaylist]: https://www.youtube.com/playlist?list=PLVE5czp3KIIzqqZlsu-RSAUGgErJ6XrmE
+[androidplaylist]: https://www.youtube.com/playlist?list=PLVE5czp3KIIxBNaBp7I2FPUFiWtEWGUI3
