@@ -47,7 +47,5 @@
 [website]: https://mrbikashbarik.blogspot.com/
 [twitter]: https://twitter.com/BikashB33919095
 [youtube]: https://youtube.com/codingwithevan
-
 [linkedin]: https://www.linkedin.com/in/bikash-barik-178a1519b/
 [facebook]: https://www.facebook.com/bikash.barik.5059601
-
