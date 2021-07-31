@@ -42,7 +42,7 @@
 
 
 
-<img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
+<img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
 
 [website]: https://mrbikashbarik.blogspot.com/
 [twitter]: https://twitter.com/BikashB33919095
