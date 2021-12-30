@@ -52,4 +52,7 @@
 [facebook]: https://www.facebook.com/bikash.barik.5059601
 [pythonprojectplaylist]: https://mbikashbarik.blogspot.com/
 [androidplaylist]: https://mbikashbarik.blogspot.com/
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)]
+
+
+
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
