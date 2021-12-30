@@ -52,3 +52,4 @@
 [facebook]: https://www.facebook.com/bikash.barik.5059601
 [pythonprojectplaylist]: https://mbikashbarik.blogspot.com/
 [androidplaylist]: https://mbikashbarik.blogspot.com/
+(https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)]
