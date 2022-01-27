@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, and Programmer!
 - 🎓 Computer Science Engineer.
 - 🔭 I make Blockchain DApplication on [Coding With Bikash][website]!
-- 🥅 2021 Goals: Contribute more to Open Source projects and make 2 to 3 Blockchain Dapp
+- 🥅 2022 Goals: Contribute more to Open Source projects and make 2 to 3 Blockchain Dapp
 - ⚡ Fun fact: I am also a GAMER and CONTENT WRITER! 
 
 ### Connect with me:
